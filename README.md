@@ -20,5 +20,10 @@ product orders.
 
 ● The marketing and sales teams are particularly interested in the different types of
 customers in their system and how their ordering behaviors differ. 
+## Analysis Criteria:
+● Analysis has been conducted using Jupyter notebooks and the Anaconda libraries
+manager.
 
+● Analysis has been conducted using Python and relevant libraries (pandas, NumPy, os,
+matplotlib, scipy, and seaborn).
 
