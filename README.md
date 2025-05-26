@@ -20,6 +20,9 @@ product orders.
 
 ● The marketing and sales teams are particularly interested in the different types of
 customers in their system and how their ordering behaviors differ. 
+## Data Overview:
+This project utilizes multiple open-source datasets from Instacart, along with a specially created customer dataset. The data includes customer demographics, purchasing behaviors, product categories, and transaction details, all linked through common identifiers. The Instacart datasets provide insights into order patterns, product popularity, and pricing trends, while the customer dataset helps refine segmentation strategies. The analysis will leverage Python to clean, merge, and explore the data, guiding Instacart’s targeted marketing approach. The final report will include a citation for the Instacart Online Grocery Shopping Dataset 2017, accessed via Kaggle.
+
 ## Analysis Criteria:
 ● Analysis has been conducted using Jupyter notebooks and the Anaconda libraries
 manager.
